@@ -1,0 +1,4 @@
+kserve==0.11.2
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==2.2.0+cpu
+joeynmt==2.3.0
